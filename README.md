@@ -61,7 +61,6 @@ Repositório do grupo contendo:
  - Horário: 15:30
  - Status: Aguardando confirmação
 
-
 ## 👩‍💻 Pessoas Desenvolvedoras
 | Nome | *Funcao no Projeto* |
 |------|-------------------|
