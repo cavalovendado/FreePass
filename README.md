@@ -58,18 +58,18 @@ Repositório do grupo contendo:
  - Dia: 12/09
  - Status: Aguardando confirmação
 
-## 👩‍💻 Pessoas Desenvolvedoras
+## Pessoas Desenvolvedoras
 | Nome | *Funcao no Projeto* |
 |------|-------------------|
 | Amanda | Lógica principal e vetores |
 |   Ana  | Apresentação e interface do menu e validações |
 |  Pedro | Testes, documentação e apresentação |
 
-## 📜 Licença
+## Licença
 Projeto desenvolvido **para fins educacionais** na disciplina de **Lógica de Programação**.  
 Uso livre para estudos e aprimoramento.
 
-## 💬 Observação
+## Observação
 Este projeto é uma simulação para fins didáticos.  
 Em versões futuras, pretende-se implementar:
 - Implementar **relatórios** de saídas.  
