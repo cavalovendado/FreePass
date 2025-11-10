@@ -50,17 +50,17 @@ Repositório do grupo contendo:
 ## 💻 Demonstração
 
 ## 🧠 Menu Principal
-1 - Cadastrar bilhete de saída
-2 - Listar bilhetes
-3 - Confirmar saída
-4 - Sair
+ 1.  Cadastrar bilhete de saída
+ 2.  Listar bilhetes
+ 3.  Confirmar saída
+ 4.  Sair
 
 ## ✅ Saída Esperada
-Bilhete cadastrado com sucesso!
-Aluno: João Silva
-Responsável: Maria Silva
-Horário: 15:30
-Status: Aguardando confirmação
+ - Bilhete cadastrado com sucesso!
+ - Aluno: João Silva
+ - Responsável: Maria Silva
+ - Horário: 15:30
+ - Status: Aguardando confirmação
 
 
 ## 👩‍💻 Pessoas Desenvolvedoras
