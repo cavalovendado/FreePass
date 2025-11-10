@@ -11,17 +11,16 @@ O processo manual de preenchimento dos bilhetes de saída dos alunos causa **atr
 A solução proposta é **digitalizar o processo**, permitindo que os responsáveis façam o preenchimento eletrônico e a secretaria apenas confirme e libere a saída, tornando o fluxo mais **ágil, seguro e confiável**.
 
 
-## 🎯 Objetivos de Aprendizagem
+## Objetivos de Aprendizagem
 - Integrar conteúdos de **Lógica de Programação** em um projeto funcional.  
 - Praticar **decomposição de problemas**, **abstração** e **validação de dados**.  
 - Desenvolver **colaboração em grupo** e **apresentação técnica** do trabalho.  
 
----
 
-## ⚙️ Status do Projeto
+## Status do Projeto
 > 🧩 **Em desenvolvimento** — versão inicial com funcionalidades principais concluídas.
 
-## 🧾 Funcionalidades
+## Funcionalidades
 - [x] Cadastrar alunos e responsáveis  
 - [x] Emitir bilhete digital de saída  
 - [x] Listar bilhetes emitidos  
@@ -49,13 +48,13 @@ Repositório do grupo contendo:
 
 ## 💻 Demonstração
 
-## 🧠 Menu Principal
+## Menu Principal
  1.  Cadastrar bilhete de saída
  2.  Listar bilhetes
  3.  Confirmar saída
  4.  Sair
 
-## ✅ Saída Esperada
+## Saída Esperada
  - Bilhete cadastrado com sucesso!
  - Aluno: João Silva
  - Responsável: Maria Silva
@@ -71,7 +70,7 @@ Repositório do grupo contendo:
 |  Pedro | Testes, documentação e apresentação |
 
 ## 📜 Licença
-📘 Projeto desenvolvido **para fins educacionais** na disciplina de **Lógica de Programação**.  
+ . Projeto desenvolvido **para fins educacionais** na disciplina de **Lógica de Programação**.  
 Uso livre para estudos e aprimoramento.
 
 ## 💬 Observação
